@@ -1,2 +1,2 @@
-# Email-Slicer
-This tells how you can can make your very own email slicer.
+# Python
+I will upload begginer python projects if made.
